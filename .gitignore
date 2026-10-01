@@ -1,0 +1,11 @@
+data/midi/
+data/processed/
+models/
+output/
+__pycache__/
+*.pyc
+venv/
+.venv/
+__pychache__/
+*.pyc
+.env
